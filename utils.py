@@ -6,6 +6,6 @@ def helper_function():
     print("This is a helper function in utils.py")
     return "Helper function executed"
 
-if __name__ == "__main__":
-    result = helper_function()
-    print(result)
+def another_util_function():
+    print("This is another utility function in utils.py")
+    return "Another utility function executed"
