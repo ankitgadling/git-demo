@@ -1,1 +1,5 @@
 print("hello_world from git-demo repository!")
+print("This is a demo for git operations.")
+print("Let's make some changes and commit them.")
+print("Adding more functionality to the demo script.")
+print("Finalizing the demo script for git operations.")
