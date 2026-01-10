@@ -15,3 +15,14 @@ def calculate_difference(a, b):
 
 def greet_user(name):
     return f"Hello, {name}!"
+
+def calculate_sum(a, b):
+    return a + b
+
+def calculate_product(a, b):
+    return a * b
+
+def calculate_quotient(a, b):
+    if b == 0:
+        return "Error: Division by zero"
+    return a / b
