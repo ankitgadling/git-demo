@@ -10,8 +10,8 @@ def another_util_function():
     print("This is another utility function in utils.py")
     return "Another utility function executed"
 
-def calculate_sum(x, y):
-    return x + y
-
 def calculate_difference(a, b):
     return a - b
+
+def greet_user(name):
+    return f"Hello, {name}!"
